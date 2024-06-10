@@ -1,0 +1,112 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6414842475277106616
+  },
+  "m_Name": "04007-data",
+  "m_timelineAssetDictionary": {
+    "m_keys": [
+      "attack",
+      "dash",
+      "dashturn",
+      "dashzig",
+      "death",
+      "hit",
+      "rangedattack",
+      "run",
+      "spawn"
+    ],
+    "m_values": [
+      {
+        "m_FileID": 1,
+        "m_PathID": 7527213256544945916
+      },
+      {
+        "m_FileID": 1,
+        "m_PathID": -8560391252266039346
+      },
+      {
+        "m_FileID": 1,
+        "m_PathID": -8560391252266039346
+      },
+      {
+        "m_FileID": 1,
+        "m_PathID": -8560391252266039346
+      },
+      {
+        "m_FileID": 1,
+        "m_PathID": -2408474257835673834
+      },
+      {
+        "m_FileID": 1,
+        "m_PathID": 195032998007774840
+      },
+      {
+        "m_FileID": 1,
+        "m_PathID": 2588835382223168427
+      },
+      {
+        "m_FileID": 1,
+        "m_PathID": 3731648704898184458
+      },
+      {
+        "m_FileID": 1,
+        "m_PathID": -8708462827369149816
+      }
+    ]
+  },
+  "m_areaSize": 1,
+  "m_enableInGameShadow": 1,
+  "m_shadowSize": 0.7,
+  "m_shadowOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "m_width": 3,
+  "m_height": 10,
+  "m_fxVerticalOffset": 0,
+  "m_fxScaleWidth": 7,
+  "m_fxScaleHeight": 9,
+  "m_weaponType": 5,
+  "m_movementType": 0,
+  "m_spawnEffect": {
+    "m_FileID": 1,
+    "m_PathID": -6059748950060106426
+  },
+  "m_permanentEffect": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_actionEffect": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_deathEffect": {
+    "m_FileID": 1,
+    "m_PathID": -4836074334955691549
+  },
+  "m_hasSpawnAnimations": 1,
+  "m_hasIdleAnimations": 1,
+  "m_hasRunAnimations": 1,
+  "m_hasDashAnimations": 1,
+  "m_hasHitAnimations": 1,
+  "m_hasDeathAnimations": 1,
+  "m_hasAttackAnimations": 1,
+  "m_hasRangedAttackAnimations": 1,
+  "m_hasActivationAnimations": 0,
+  "m_hasDetectionAnimations": 0,
+  "m_idleToRunTransitionMode": 2,
+  "m_permanentEffectMode": 0,
+  "m_customAnimations": [],
+  "m_animatedObjectDefinition": {
+    "m_FileID": 0,
+    "m_PathID": -1839080794888513888
+  },
+  "m_animationDirections": 3,
+  "m_scale": 1.0
+}
