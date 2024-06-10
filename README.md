@@ -1,2 +1,2 @@
 # AnimatorController-PoC
- An Animator Controller to read Unity (Ankama) sprites
+ An Animation Controller to read Unity (Ankama) sprites
